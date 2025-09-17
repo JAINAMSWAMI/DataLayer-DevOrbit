@@ -8,7 +8,7 @@ namespace DataLayer
     public class Operations
     {
         // Corrected connection string
-        public string connectionString = "Your DB string here"; 
+        public string connectionString = "Data Source=DESKTOP-NE03M3B\\SQLEXPRESSJAINAM;Initial Catalog=DevOrbit;User ID=jainam;Password=sasa; TrustServerCertificate = True";
 
 
         // Method for executing an INSERT, UPDATE, or DELETE query
